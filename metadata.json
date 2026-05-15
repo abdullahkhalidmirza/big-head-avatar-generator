@@ -1,0 +1,8 @@
+{
+  "name": "Big Head Avatar Generator",
+  "description": "Create funny and stylish Big Head avatars from your selfies using AI image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
