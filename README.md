@@ -4,6 +4,8 @@
 
 Create funny, stylish, and high-quality "Big Head" cartoon avatars from your selfies using AI image generation.
 
+**[View Live Demo](https://big-head-avatar-generator.vercel.app/)**
+
 ## How It Works
 
 This application allows users to upload a selfie and instantly generate a beautifully stylized, exaggerated "big head" cartoon version of themselves. It uses state-of-the-art AI image-to-image generation APIs to preserve facial identity, hairstyle, and expression while applying a stylistic transformation.
