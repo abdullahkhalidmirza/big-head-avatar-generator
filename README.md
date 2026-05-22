@@ -1,3 +1,5 @@
+<img width="966" height="640" alt="main-image" src="https://github.com/user-attachments/assets/fe3a47ff-7113-4ee0-b77c-8b9ae9821368" />
+
 # Big Head Avatar Generator
 
 Create funny, stylish, and high-quality "Big Head" cartoon avatars from your selfies using AI image generation.
