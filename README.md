@@ -2,7 +2,7 @@
 
 Create funny, stylish, and high-quality "Big Head" cartoon avatars from your selfies using AI image generation.
 
-## 🚀 How It Works
+## How It Works
 
 This application allows users to upload a selfie and instantly generate a beautifully stylized, exaggerated "big head" cartoon version of themselves. It uses state-of-the-art AI image-to-image generation APIs to preserve facial identity, hairstyle, and expression while applying a stylistic transformation.
 
@@ -13,7 +13,7 @@ This application allows users to upload a selfie and instantly generate a beauti
 * **Provider Choice**: Support for APIs like Fal (flux-pro) and OpenAI (DALL-E 3).
 * **Client-side Storage**: Keeps track of previously generated images securely in your local browser history.
 
-## 🔑 API Configuration & Usage
+## API Configuration & Usage
 
 To generate images, this project requires an API key from either **Fal** or **OpenAI**. 
 The app is designed to prompt users for their API key in the UI (via the Settings gear icon) upon first usage. Keys are stored safely in the browser's local storage and are never sent to external servers other than the API providers themselves.
@@ -21,7 +21,7 @@ The app is designed to prompt users for their API key in the UI (via the Setting
 * **Fal AI:** Uses the `fal-ai/flux-pro/v1.1/image-to-image` model.
 * **OpenAI:** Uses the `dall-e-3` model (Note: OpenAI typically requires image prompts to be text only, but the app adapts logic as necessary).
 
-## 🛠️ Tech Stack & Hosting (Vercel)
+## Tech Stack & Hosting (Vercel)
 
 * **Framework:** React 18, Vite
 * **Styling:** Tailwind CSS, Framer Motion
@@ -30,9 +30,18 @@ The app is designed to prompt users for their API key in the UI (via the Setting
   2. The **Build Command** is `npm run build`.
   3. The **Output Directory** is `dist`.
 
-## 📜 Development Setup
+## Development Setup
 
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Start the dev server: `npm run dev`
 4. Open the application on `http://localhost:3000`
+
+## Purchase & Support
+
+You can purchase the full source code and support the development of this project on Gumroad:
+[Get Big Head Avatar Generator on Gumroad](https://abdullahkhalidmirza.gumroad.com/l/big-head-avatar-generator)
+
+## Author
+
+Built by [Abdullah Khalid Mirza](https://abdullahkhalidmirza.com)
